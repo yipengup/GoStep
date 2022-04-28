@@ -1,2 +1,6 @@
 # GoStep
-Master 分支只作为学习内容的路由链接，想看具体内容请访问具体的分支。
+## GoByExample
+
+[GoByExample](https://gobyexample.com/)
+
+Go by Example是使用带注释的示例程序对 Go 的动手介绍。
